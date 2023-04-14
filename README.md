@@ -1,2 +1,2 @@
 # Projeto-relogio
- Projeto de Calculadora analógica - utilizando HTML, CSS e Javascript.
+ Projeto de Relógio Analógico - utilizando HTML, CSS e Javascript.
